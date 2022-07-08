@@ -1,0 +1,48 @@
+body {
+  background-color: #252A34 !important;
+}
+
+
+.container {
+  padding: 5%;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+}
+
+
+.heading {
+  margin: 30px;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 5rem;
+  color: #FF2E63;
+}
+
+p {
+  margin: 5% auto !important;
+  font-size: 2rem;
+  color: #EAEAEA;
+  font-family: 'Fredoka One', cursive;
+}
+
+.img1 {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.img2 {
+  width: 50%;
+  margin-right: 25%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
